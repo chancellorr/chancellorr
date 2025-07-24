@@ -3,8 +3,6 @@
 
 
 [twitter]: https://twitter.com/chancebedwards1
-[youtube]: https://www.youtube.com/c/chancellorrr
-[instagram]: https://www.instagram.com/chance.gma/
 [linkedin]: https://linkedin.com/in/chancellorr
 
 <!--
