@@ -1,9 +1,22 @@
-<h1>Hey, I am Chancellor Edwards! <br/><a href="https://github.com/chancellorr">Network Proffesional</a>, <a href="https://www.linkedin.com/in/chancellorr/">Cyber Professional</a> </h1>
+<h1 align="center">Hey 👋, I'm Chancellor Edwards</h1>
+<h3 align="center">Network & Cybersecurity Professional | Problem Solver | Lifelong Learner</h3>
+
+<p align="center">
+  <a href="https://github.com/chancellorr" target="_blank"><strong>GitHub</strong></a> • 
+  <a href="https://www.linkedin.com/in/chancellorr/" target="_blank"><strong>LinkedIn</strong></a> • 
+  <a href="https://twitter.com/chancebedwards1" target="_blank"><strong>Twitter</strong></a>
+</p>
+
+---
+
+🔧 **The Contributee**
+
+- Building solutions  
+- Cybersecurity professional
+
+---
 
 
-
-[twitter]: https://twitter.com/chancebedwards1
-[linkedin]: https://linkedin.com/in/chancellorr
 
 <!--
 **chancellorr/chancellorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
