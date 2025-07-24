@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Chancellor Edwards</h1>
+<h1 align="center">Greetings, it's Chancellor Edwards</h1>
 <h3 align="center">Network & Cybersecurity Professional | Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
