@@ -2,7 +2,6 @@
 <h3 align="center">Network & Cybersecurity Professional | Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
-  <a href="https://github.com/chancellorr" target="_blank"><strong>GitHub</strong></a> • 
   <a href="https://www.linkedin.com/in/chancellorr/" target="_blank"><strong>LinkedIn</strong></a> • 
   <a href="https://twitter.com/chancebedwards1" target="_blank"><strong>Twitter</strong></a>
 </p>
