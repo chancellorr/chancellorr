@@ -11,7 +11,7 @@
 
 🔧 **The Contributee**
 
-- Building solutions  
+- Currently building solutions  
 - Cybersecurity professional
 
 ---
